@@ -1,0 +1,6 @@
+{
+  "name": "Arkana Rent Car",
+  "description": "Company Profile & Landing Page Premium Arkana Rent Car - Perjalanan Nyaman Dimulai Bersama Kami",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
